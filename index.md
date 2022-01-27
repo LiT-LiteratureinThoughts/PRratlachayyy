@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Gửi PR iu dấu của chị Hà Np
 
-You can use the [editor on GitHub](https://github.com/LiT-LiteratureinThoughts/PRratlachayyy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# From Hà xinh: 
+Lớn rồi chúc các em không bị tramcam như t chúc tất cả cmay cao lên chúc ai muốn có ny có ny chúc mấy đứa bị trap đi trap ngược ngta chúc mấy đứa cmay ghét bị nghiệp quật chúc đứa nào đu idol sẽ đu thành công chúc điểm chuyên đề cao gần nhất lớp chúc đỗ đại học chúc lên core chúc ăn uống đầy đủ không bệnh tật nhé ban t giỏi quá đúng là ban t mà chúc cmay ngoan ko phản t chúc bài up k bị flop nx dù t cx lười bump chúc skien thành công🤗 chúc tóc dày mượt như ý chúc ăn không béo chúc a quân bede chúc ko bị gdcd và gdqp k bị đập tan nát như t ? Chúc vi phạm nội quy k bị bắt chúc đừng buồn như t bây h buồn quá chúc ai có ny r thì ny tốt như ny t chứ đừng tệ bạc như nyc bạn t chúc bạn bè cmay k đâm sau lưng chúc ăn tết vui chúc gia đình hạnh phúc không đọc hết t đấm cmay cf bằng cách nói tên nvat táo quân yêu thích c3 hãm l lắm lắm ý chúc cmay vượt qua được nó và tìm đc những ng tuyệt vời như t cmay phải lớn mạnh để chống lưng cho t chửi mấy đứa t ghét nhé hết r đấy ăn Tết vui vẻ nhiều tiền mừng tuổi nhé
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiT-LiteratureinThoughts/PRratlachayyy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
